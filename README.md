@@ -9,7 +9,7 @@ Currently, I am using two blogging platforms:
     <img alt="Medium blog" src="https://img.shields.io/badge/Medium-2c756b?style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 
-<a href="https://www.freakingcode.hashnode.dev/" target="_blank">
+<a href="https://freakingcode.hashnode.dev/" target="_blank">
     <img alt="Hashnode blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 
 
